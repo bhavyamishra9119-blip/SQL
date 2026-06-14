@@ -1,3 +1,3 @@
 SELECT amount   
 FROM payment
-ORDER BY amount;
+ORDER BY amount; 

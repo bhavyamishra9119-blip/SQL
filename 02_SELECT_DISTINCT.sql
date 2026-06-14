@@ -1,2 +1,2 @@
 SELECT DISTINCT amount
-FROM payment;
+FROM payment; 

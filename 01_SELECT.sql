@@ -1,2 +1,2 @@
 SELECT amount
-FROM payment;
+FROM payment; 
