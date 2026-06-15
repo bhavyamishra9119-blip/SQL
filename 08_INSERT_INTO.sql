@@ -1,0 +1,3 @@
+SELECT *
+FROM payments
+INSERT INTO
